@@ -28,5 +28,28 @@ Members have been clamoring for Navigate to gracefully support students having m
 
 ---
 
-##### How the models work
+##### The Big Organizing Idea
 
+Schools want students to have goals they can be working for, and we want to make templates for those.
+
+But those goals might be in groups (goalsets) and vary by school.
+
+So we need to give students 1+ goalsets, and those goalsets 1+ goals.
+
+---
+
+<img src="img/goalsets.png" alt="Goalsets" height="40%" width="40%">
+
+---
+
+##### But How Do We Get There?
+
+So how do we populate those tables?
+
+We have a bunch of MM.*Feed tables that DIS gives us, and we have a transformation pipeline.
+
+---
+
+<img src="img/feeds.png" alt="Goalsets" height="40%" width="40%">
+
+---
