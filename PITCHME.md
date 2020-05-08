@@ -38,7 +38,7 @@ So we need to give students 1+ goalsets, and those goalsets 1+ goals.
 
 ---
 
-<img src="img/goalsets.png" alt="Goalsets" height="100%" width="100%">
+<img src="img/goalsets.png" alt="Goalsets" height="80%" width="80%">
 
 ---
 
@@ -50,6 +50,6 @@ We have a bunch of MM.*Feed tables that DIS gives us, and we have a transformati
 
 ---
 
-<img src="img/feeds.png" alt="Goalsets" height="100%" width="100%">
+<img src="img/feeds.png" alt="Goalsets" height="120%" width="120%">
 
 ---
